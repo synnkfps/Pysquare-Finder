@@ -24,6 +24,7 @@ The code isnt 100% clean! It have a specific bug that: <br>
  1. first uses a `for` loop in range of 1 to the specified number.
  2. checks if one of the checked values on the loop multiplied by himself is the specified value
  3. if it is, just tell you!
+ 4. 
  **Not Exact Square Roots**
  1. first subtracts the n.e square roots with the range of the amount to be checked
  2. if in the range that you specified in bforce has a exact square root, pick the closest exact square root
